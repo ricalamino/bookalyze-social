@@ -27,8 +27,7 @@ Documento-fonte da automação. A tarefa agendada lê este arquivo, escolhe as p
 
 ### 1. Institucional (o que é, para quem, por quê)
 - BI para anfitriões profissionais, a partir de 2 imóveis
-- "RevPAR, ocupação e lucro por imóvel, no mesmo painel"
-- "Enxergue qual imóvel puxa margem e qual está sangrando"
+- "RevPAR, ocupação e diária média por imóvel, no mesmo painel"
 - Sem planilha, sem esperar o fechamento do mês
 - Cobrança por portfólio, não por usuário
 - Integração nativa com Stays (App Center) e com Hostaway
@@ -50,11 +49,11 @@ Documento-fonte da automação. A tarefa agendada lê este arquivo, escolhe as p
 - Permanência média e custo de limpeza/turnover.
 - Taxa de cancelamento por canal.
 - Sazonalidade: comparar com o mesmo mês do ano anterior (YoY), não com o mês passado.
-- Lucro por imóvel ≠ faturamento por imóvel.
 - Ranking: os 20% piores imóveis e o que fazer com eles.
 
 ## Regras
 
+- **Não mostramos lucro líquido.** Nada de "lucro por imóvel", "margem" ou "qual imóvel está sangrando" em arte ou legenda.
 - **Nunca** usar dados de clientes (nomes, imóveis, números reais), mesmo anonimizados, sem aprovação explícita do Ricardo.
 - Números em exemplos são sempre hipotéticos e sinalizados como exemplo.
 - Não prometer funcionalidade que não existe. Pauta marcada com *(confirmar)* só vai ao ar depois de confirmada.
@@ -64,7 +63,7 @@ Documento-fonte da automação. A tarefa agendada lê este arquivo, escolhe as p
 
 | # | Data | Pilar | Tema | Status |
 |---|------|-------|------|--------|
-| 1 | 2026-09-28 | Institucional | Qual imóvel está sangrando | rascunho no Metricool |
+| 1 | 2026-09-28 | Institucional | Qual imóvel está sangrando | CANCELADO (não mostramos lucro líquido) |
 | 2 | 2026-09-30 | Você sabia? | Ocupação vs RevPAR | rascunho no Metricool |
 | 3 | 2026-10-02 | Novidade | Bookalyze no Claude | rascunho no Metricool |
 | 4 | 2026-10-05 | Você sabia? | Antecedência média | rascunho no Metricool |
