@@ -69,3 +69,6 @@ Documento-fonte da automação. A tarefa agendada lê este arquivo, escolhe as p
 | 4 | 2026-10-05 | Você sabia? | Antecedência média | rascunho no Metricool |
 | 5 | 2026-10-07 | Novidade | Prestação de contas | rascunho no Metricool |
 | 6 | 2026-10-09 | Institucional | Integração Stays e Hostaway | rascunho no Metricool |
+| 7 | 2026-10-12 | Você sabia? | Sazonalidade: comparar YoY, não MoM | rascunho no Metricool |
+| 8 | 2026-10-14 | Novidade | Ranking de imóveis por performance | rascunho no Metricool |
+| 9 | 2026-10-16 | Institucional | Cobrança por portfólio, não por usuário (equipe toda no painel) | rascunho no Metricool |
