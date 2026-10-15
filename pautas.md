@@ -72,3 +72,6 @@ Documento-fonte da automação. A tarefa agendada lê este arquivo, escolhe as p
 | 7 | 2026-10-12 | Você sabia? | Sazonalidade: comparar YoY, não MoM | rascunho no Metricool |
 | 8 | 2026-10-14 | Novidade | Ranking de imóveis por performance | rascunho no Metricool |
 | 9 | 2026-10-16 | Institucional | Cobrança por portfólio, não por usuário (equipe toda no painel) | rascunho no Metricool |
+| 10 | 2026-10-19 | Você sabia? | Permanência média e custo de limpeza/turnover | rascunho no Metricool |
+| 11 | 2026-10-21 | Novidade | Alertas operacionais | rascunho no Metricool |
+| 12 | 2026-10-23 | Institucional | BI a partir de 2 imóveis | rascunho no Metricool |
