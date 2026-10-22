@@ -75,3 +75,6 @@ Documento-fonte da automação. A tarefa agendada lê este arquivo, escolhe as p
 | 10 | 2026-10-19 | Você sabia? | Permanência média e custo de limpeza/turnover | rascunho no Metricool |
 | 11 | 2026-10-21 | Novidade | Alertas operacionais | rascunho no Metricool |
 | 12 | 2026-10-23 | Institucional | BI a partir de 2 imóveis | rascunho no Metricool |
+| 13 | 2026-10-26 | Você sabia? | Taxa de cancelamento por canal | rascunho no Metricool |
+| 14 | 2026-10-28 | Institucional | Sem planilha, sem esperar o fechamento do mês | rascunho no Metricool |
+| 15 | 2026-10-30 | Institucional | Demo de 20 minutos | rascunho no Metricool |
