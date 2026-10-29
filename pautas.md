@@ -78,3 +78,6 @@ Documento-fonte da automação. A tarefa agendada lê este arquivo, escolhe as p
 | 13 | 2026-10-26 | Você sabia? | Taxa de cancelamento por canal | rascunho no Metricool |
 | 14 | 2026-10-28 | Institucional | Sem planilha, sem esperar o fechamento do mês | rascunho no Metricool |
 | 15 | 2026-10-30 | Institucional | Demo de 20 minutos | rascunho no Metricool |
+| 16 | 2026-11-02 | Você sabia? | Ranking: os 20% piores imóveis e o que perguntar antes de agir | rascunho no Metricool |
+| 17 | 2026-11-04 | Novidade | Comparativos YoY e MoM (duas perguntas diferentes) | rascunho no Metricool |
+| 18 | 2026-11-06 | Institucional | RevPAR, ocupação e diária média por imóvel, no mesmo painel | rascunho no Metricool |
