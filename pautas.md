@@ -81,3 +81,6 @@ Documento-fonte da automação. A tarefa agendada lê este arquivo, escolhe as p
 | 16 | 2026-11-02 | Você sabia? | Ranking: os 20% piores imóveis e o que perguntar antes de agir | rascunho no Metricool |
 | 17 | 2026-11-04 | Novidade | Comparativos YoY e MoM (duas perguntas diferentes) | rascunho no Metricool |
 | 18 | 2026-11-06 | Institucional | RevPAR, ocupação e diária média por imóvel, no mesmo painel | rascunho no Metricool |
+| 19 | 2026-11-09 | Você sabia? | Noites bloqueadas mudam a ocupação (pauta nova, fora do banco) | rascunho no Metricool |
+| 20 | 2026-11-11 | Institucional | Para equipes comercial, financeira e operacional | rascunho no Metricool |
+| 21 | 2026-11-13 | Você sabia? | Diária média esconde a diferença entre os dias da semana (pauta nova, fora do banco) | rascunho no Metricool |
