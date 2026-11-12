@@ -84,3 +84,6 @@ Documento-fonte da automação. A tarefa agendada lê este arquivo, escolhe as p
 | 19 | 2026-11-09 | Você sabia? | Noites bloqueadas mudam a ocupação (pauta nova, fora do banco) | rascunho no Metricool |
 | 20 | 2026-11-11 | Institucional | Para equipes comercial, financeira e operacional | rascunho no Metricool |
 | 21 | 2026-11-13 | Você sabia? | Diária média esconde a diferença entre os dias da semana (pauta nova, fora do banco) | rascunho no Metricool |
+| 22 | 2026-11-16 | Você sabia? | Noites órfãs: lacuna menor que a estadia mínima (pauta nova, fora do banco) | rascunho no Metricool |
+| 23 | 2026-11-18 | Institucional | A reunião de segunda começa com os números prontos (YoY/MoM, ranking, alertas) | rascunho no Metricool |
+| 24 | 2026-11-20 | Você sabia? | Ritmo de reservas (pickup): comparar com o ano passado na mesma data (pauta nova, fora do banco) | rascunho no Metricool |
