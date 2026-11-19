@@ -87,3 +87,6 @@ Documento-fonte da automação. A tarefa agendada lê este arquivo, escolhe as p
 | 22 | 2026-11-16 | Você sabia? | Noites órfãs: lacuna menor que a estadia mínima (pauta nova, fora do banco) | rascunho no Metricool |
 | 23 | 2026-11-18 | Institucional | A reunião de segunda começa com os números prontos (YoY/MoM, ranking, alertas) | rascunho no Metricool |
 | 24 | 2026-11-20 | Você sabia? | Ritmo de reservas (pickup): comparar com o ano passado na mesma data (pauta nova, fora do banco) | rascunho no Metricool |
+| 25 | 2026-11-23 | Você sabia? | Nota geral esconde a nota por categoria (limpeza 4,3) (pauta nova, fora do banco) | rascunho no Metricool |
+| 26 | 2026-11-25 | Institucional | Do PMS ao painel em 3 passos (Stays/Hostaway → métricas → equipe) (pauta nova, fora do banco) | rascunho no Metricool |
+| 27 | 2026-11-27 | Você sabia? | Black Friday: desconto sobe a ocupação e pode baixar o RevPAR | rascunho no Metricool |
